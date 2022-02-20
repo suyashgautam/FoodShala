@@ -16,3 +16,6 @@ https://foodshala-suyash-1.herokuapp.com/
 
 ## Demo Link
 https://www.youtube.com/watch?v=1o4-QBlhZHQ&t=3s
+
+## NodeJS version
+https://github.com/suyashgautam/FoodShala-nodejs
